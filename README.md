@@ -50,6 +50,9 @@ ___
 <br/>
 ![screehshot5](https://miro.medium.com/max/1400/1*dmhtDQUIFpL1DIgltAejNw.png)
 
+### Blog
+___
+* Link (https://medium.com/@uic17bca1427/apple-tv-website-clone-masai-school-41e7dc11b3cf)
 
 ### Team
 ___
