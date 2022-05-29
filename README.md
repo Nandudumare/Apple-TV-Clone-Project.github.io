@@ -11,7 +11,7 @@ And from that related content, you can easily switch to any other web series rel
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| dark grey | ![#333333](https://via.placeholder.com/10/333333?text=+) #333333 
+| dark grey |  #333333 
 
 
 ## Features
